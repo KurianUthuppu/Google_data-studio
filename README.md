@@ -39,7 +39,26 @@ CASE
 END
 ```
 - Final steps may require some trail & error as things may not have come exactly as you had envisioned
-- You can view one of the dashboards that I had created to help analyze the IoT data of daily milk procurment from a dairy  
+- You can view some of the dashboards that I had created to help analyze the IoT data of 
+  - Daily milk procurment from a dairy to analyze trends 
+  - The quantity/quality variations in farmer pouring which help to detect adulteration
+  - Finding loan eligible farmers based on milk pouring trend (Attendance and Quantity) and calculating loan ticket size based on user inputs
   (Note: Some of the values are hidden due to confidentiality)
 
+### Data-Studio - Pros/Cons
+#### Pros
+- Easy to learn and use
+- Easy integration with different data sources including Big-Query which helps to store and give faster response for big data
+  - Data with more than a 100K cells in excels gets too slow to load and reflect data; Big-Query is alternative for such big-data scenarios
+- Free with google account
+- Good documentation and youtube videos from Google
+- Good ready made templates and options for customization
+
+#### Cons
+- Slow response to data edits in google excel sheets
+- Sometimes few visualization bugs are visible during loading
+
+PS: 
+- Didn't allow embedding of google maps (Geo-chart dashboards) in google site  
+  (Issue resolved on Oct-21: https://issuetracker.google.com/issues/155529836?pli=1)
 
