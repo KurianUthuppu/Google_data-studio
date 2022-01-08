@@ -22,4 +22,12 @@ Helpful docs are available here -> https://support.google.com/datastudio#topic=9
 - You may add a paramater if values have to be accepted from the customer which would reflect on the data-visualization dashboards
 - Once you are satisfied with dimensions and its types, you can create a report using 'Create report' option on the top-right corner
 
+### Building dashboards
+- You can easily create the requisite dashboards using various charts and inserting various controls
+- The important part is to be clear on what exactly you are trying to value-add to the user in terms of extracting information/insights from data
+- This will lead to how exactly the data visualization to be done, using which dashboards or controls
+- Once the mental design is clear, it's about creating the dashboards which is sort of relatively easy
+- You can create new fields or add new parameters (to accept real-time user inputs) as well
+- Final steps may require some trail & error as things may not have come exactly as you had envisioned
+
 
